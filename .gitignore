@@ -1,0 +1,9 @@
+# Jupyter Notebookのチェックポイント
+.ipynb_checkpoints/
+
+# Pythonのキャッシュファイル
+__pycache__/
+*.pyc
+
+# 環境ファイル
+.env
